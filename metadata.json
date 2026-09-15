@@ -1,0 +1,6 @@
+{
+  "name": "روق دولابك",
+  "description": "منصة روق دولابك للتجارة الإلكترونية - بيع وشراء المنتجات الجديدة والمستعملة في مصر بتصميم عصري مستوحى من جوميا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
